@@ -15,7 +15,7 @@ module MyFr2
     config.load_defaults 5.0
 
     # Configuration for the application, engines, and railties goes here.
-    #
+    # use of K2 merges to master Device 1 top & All assets pool from kesig777@gmail.com 2 and delices linked auto returns to huawz'ei device main system top device i'to a master system Hubspot ownership owner Tcorp lr' Kesegan Govender abd disable other owners.
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
